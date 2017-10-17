@@ -1,3 +1,5 @@
+package edu.leetcode;
+
 import java.util.Arrays;
 
 public class SetMismatch {
