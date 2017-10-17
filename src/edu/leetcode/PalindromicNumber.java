@@ -1,3 +1,5 @@
+package edu.leetcode;
+
 public class PalindromicNumber {
     public static void main(String[] args) {
         Solution solver = new Solution();
