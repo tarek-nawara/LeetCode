@@ -38,6 +38,7 @@ public class P55 {
         }
 
         private boolean nonRecSolve(int[] nums) {
+            return false;
         }
     }
 }
