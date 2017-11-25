@@ -1,6 +1,10 @@
 package edu.leetcode;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Objects;
+import java.util.Stack;
 
 public class P503 {
     public static void main(String[] args) {
