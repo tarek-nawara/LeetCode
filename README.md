@@ -1,2 +1,2 @@
 # LeetCode
-Repository to save the solved leetcode problems
+Repository to save the solved problems
