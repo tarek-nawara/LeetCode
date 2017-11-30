@@ -1,4 +1,4 @@
-package edu.leetcode;
+package leetcode;
 
 public class P617 {
     private static class TreeNode {

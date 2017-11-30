@@ -1,10 +1,9 @@
-package edu.leetcode;
+package leetcode;
 
-import java.util.Arrays;
 import java.util.Comparator;
 import java.util.PriorityQueue;
 
-public class MergeKSorted {
+public class P23 {
     public static void main(String[] args) {
         Solution solver = new Solution();
         ListNode[] lists = new ListNode[3];

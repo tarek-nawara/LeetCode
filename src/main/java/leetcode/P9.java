@@ -1,6 +1,6 @@
-package edu.leetcode;
+package leetcode;
 
-public class PalindromicNumber {
+public class P9 {
     public static void main(String[] args) {
         Solution solver = new Solution();
         final boolean res = solver.isPalindrome(11211);

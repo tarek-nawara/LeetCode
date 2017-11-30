@@ -1,9 +1,9 @@
-package edu.leetcode;
+package leetcode;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class LongestHarmoniousSubsequence {
+public class P594 {
     public static void main(String[] args) {
         Solution solver = new Solution();
         int[] a = {1, 3, 2, 2, 5, 2, 3, 7};

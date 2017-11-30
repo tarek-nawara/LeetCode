@@ -1,6 +1,4 @@
-package edu.leetcode;
-
-import java.util.Arrays;
+package leetcode;
 
 public class P566 {
     public static void main(String[] args) {

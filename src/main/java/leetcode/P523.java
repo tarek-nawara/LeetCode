@@ -1,9 +1,9 @@
-package edu.leetcode;
+package leetcode;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class ContinuousSubarraySum {
+public class P523 {
     public static void main(String[] args) {
         int[] a = {1, 2, 3};
         int k = 5;

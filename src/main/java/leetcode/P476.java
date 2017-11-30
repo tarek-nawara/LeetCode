@@ -1,4 +1,4 @@
-package edu.leetcode;
+package leetcode;
 
 public class P476 {
     public static void main(String[] args) {

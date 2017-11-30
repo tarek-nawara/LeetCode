@@ -1,11 +1,11 @@
-package edu.leetcode;
+package leetcode;
 
 import java.util.HashSet;
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Set;
 
-public class FirstUniqueCharacterInString {
+public class P387 {
     public static void main(String[] args) {
         Solution solver = new Solution();
         final int result = solver.firstUniqChar("leetcode");
